@@ -1,4 +1,5 @@
 **StackTrace**
+```
 Launching lib\main.dart on M2102J20SG in debug mode...
 √ Built build\app\outputs\flutter-apk\app-debug.apk
 I/flutter (26730): [IMPORTANT:flutter/shell/platform/android/android_context_vk_impeller.cc(60)] Using the Impeller rendering backend (Vulkan).
@@ -36,3 +37,4 @@ backtrace:
 Lost connection to device.
 
 Exited.
+```
