@@ -1,3 +1,4 @@
+Error happens while invoking I18nManagerFactory.setLocale(locale);
 **StackTrace**
 ```
 Launching lib\main.dart on M2102J20SG in debug mode...
